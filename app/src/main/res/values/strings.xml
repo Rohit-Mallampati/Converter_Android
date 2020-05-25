@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConvertMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="km">km</string>
+    <string name="kg">kg</string>
+    <string name="miles">miles</string>
+    <string name="c">C</string>
+    <string name="f">F</string>
+    <string name="pounds">pounds</string>
+    <string name="convertto">To:</string>
+    <string name="convertfrom">Convert From</string>
+</resources>
